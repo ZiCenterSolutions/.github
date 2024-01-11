@@ -1,4 +1,4 @@
-Certainly! Here are the links to lists of resources for each of the naming convention patterns:
+Links to lists of resources for each of the naming convention patterns:
 
 1. _Undecided_ - Celestial Objects:
    - [List of Celestial Objects](https://en.wikipedia.org/wiki/List_of_celestials_in_the_Greek_and_Roman_taking_in_the_modern_cosmology)
